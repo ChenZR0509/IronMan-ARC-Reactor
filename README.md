@@ -7,15 +7,13 @@
 ​	之前我购买了拓竹的A1 mini 3D打印机，官方客服送给我了两个盲盒，一个是引擎，我在MakerWorld上下载了对应的模型图纸并打印了出来，如图1、2、3所示。另一个LED小夜灯，我没有进行打印，一方面是因为整个模型单次打印时长过多，另一方面是因为需要使用透光材质。但是本着不能浪费的原则，我在盲盒给的零件基础上进行了改造，便制作了下面的反应堆模型。
 {% endnote %}
 
-![图1-引擎模型](./钢铁侠反应堆/001.jpg)
+![001](https://github.com/ChenZR0509/IronMan-ARC-Reactor/assets/117439329/7651f0a3-190f-4c91-804a-3d8793a592b6)
+![002](https://github.com/ChenZR0509/IronMan-ARC-Reactor/assets/117439329/84d7fa85-f22a-4d96-9128-c85bb6781309)
+![003](https://github.com/ChenZR0509/IronMan-ARC-Reactor/assets/117439329/7641a6de-8ee3-403b-a52a-292d1138a158)
 
-![图2-引擎模型](./钢铁侠反应堆/002.jpg)
-
-![图3-引擎模型](./钢铁侠反应堆/003.jpg)
 
 ## 第一部分	模型展示
-
-![图4-钢铁侠反应堆模型图](./钢铁侠反应堆/001.png)
+![001](https://github.com/ChenZR0509/IronMan-ARC-Reactor/assets/117439329/0807c189-c171-4ce1-aa53-90f8e59b7933)
 
 ## 第二部分	视频记录
 
